@@ -6,17 +6,13 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Systems fail in interesting ways.
-- Every system is built on assumptions.
-- Security begins where those assumptions stop being true.
-- I study how systems behave when they are pushed beyond their assumptions.
-- This space documents experiments, investigations, and lessons learned along the way.
-- Most projects begin with a simple question:
-- What happens if this system is used in a way it was never designed for?
-
+ Systems fail in interesting ways.
+ Every system is built on assumptions.Security begins where those assumptions stop being true.
+ I study how systems behave when they are pushed beyond their assumptions.
+ This space documents experiments, investigations, and lessons learned along the way.
+ Most projects begin with a simple question:What happens if this system is used in a way it was never designed for?
 
 ## 🧠 My Focus Areas
 - Cloud Security
