@@ -1,3 +1,4 @@
+[![Portfolio](https://img.shields.io/badge/Portfolio-leo--mugambi--portfolio.pages.dev-00ff88?style=for-the-badge&logoColor=black)](https://leo-mugambi-portfolio.pages.dev)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:05050a,100:00ff88&text=Leo%20Mugambi&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=r3tro_n3o%20%7C%20Offensive%20Security%20in%20Progress&descSize=18&descColor=00ff88&descAlignY=65" width="100%"/>
 </div>
