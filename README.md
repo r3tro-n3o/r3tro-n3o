@@ -15,8 +15,8 @@
   <a href="https://app.hackthebox.com/profile/r3tron3o">
     <img src="https://img.shields.io/badge/HackTheBox-r3tron3o-9FEF00?style=flat-square&logo=hackthebox&logoColor=white"/>
   </a>
-  [![Portfolio](https://img.shields.io/badge/Portfolio-leo--mugambi--portfolio.pages.dev-00ff88?style=for-the-badge&logoColor=black)](https://leo-mugambi-portfolio.pages.dev)
 </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-leo--mugambi--portfolio.pages.dev-00ff88?style=for-the-badge&logoColor=black)](https://leo-mugambi-portfolio.pages.dev)
 
 ---
 
